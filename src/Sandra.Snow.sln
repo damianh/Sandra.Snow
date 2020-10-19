@@ -10,10 +10,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{41B572
 		.nuget\NuGet.Config = .nuget\NuGet.Config
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Barbato", "Barbato\Barbato.csproj", "{B4F9C525-5C56-440E-B4C2-972A33D7C8CD}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Barbato.Tests", "Barbato.Tests\Barbato.Tests.csproj", "{A9FEB2C4-496C-4C67-8511-0EEBE5215E43}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Snow.Tests", "Snow.Tests\Snow.Tests.csproj", "{22FE57F6-7F96-4CC1-8B5A-35CD289677C7}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionStuffs", "SolutionStuffs", "{400CA74D-3B1D-4D07-8170-5A5304710D9A}"
@@ -32,14 +28,6 @@ Global
 		{1143B7F0-4D45-4681-ACF8-EC24E4F4DBCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1143B7F0-4D45-4681-ACF8-EC24E4F4DBCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1143B7F0-4D45-4681-ACF8-EC24E4F4DBCC}.Release|Any CPU.Build.0 = Release|Any CPU
-		{B4F9C525-5C56-440E-B4C2-972A33D7C8CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B4F9C525-5C56-440E-B4C2-972A33D7C8CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B4F9C525-5C56-440E-B4C2-972A33D7C8CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B4F9C525-5C56-440E-B4C2-972A33D7C8CD}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A9FEB2C4-496C-4C67-8511-0EEBE5215E43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A9FEB2C4-496C-4C67-8511-0EEBE5215E43}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A9FEB2C4-496C-4C67-8511-0EEBE5215E43}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A9FEB2C4-496C-4C67-8511-0EEBE5215E43}.Release|Any CPU.Build.0 = Release|Any CPU
 		{22FE57F6-7F96-4CC1-8B5A-35CD289677C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{22FE57F6-7F96-4CC1-8B5A-35CD289677C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{22FE57F6-7F96-4CC1-8B5A-35CD289677C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
